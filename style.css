@@ -97,7 +97,7 @@ nav.scrolled {
     grid-template-columns: 1fr 500px;
     align-items: center;
     gap: 1rem;
-    padding: 6rem 3rem 0rem;
+    padding: 10rem 3rem 0rem;
     max-width: 1600px;
     margin: 0 auto;
 /*    background: linear-gradient(to bottom, var(--white) 0%, var(--light) 100%);*/
@@ -245,7 +245,7 @@ nav.scrolled {
 }
 
 .hero-image img {
-    width: 100%;
+    width: 80%;
     height: auto;
     display: block;
     filter: grayscale(20%);
